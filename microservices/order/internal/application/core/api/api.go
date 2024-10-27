@@ -1,8 +1,8 @@
 package api
 
 import (
-	"githib.com/isurucuma/go-grpc/microservices/order/internal/application/core/domain"
-	"githib.com/isurucuma/go-grpc/microservices/order/internal/ports"
+	"github.com/isurucuma/go-grpc/microservices/order/internal/application/core/domain"
+	"github.com/isurucuma/go-grpc/microservices/order/internal/ports"
 )
 
 type Application struct {

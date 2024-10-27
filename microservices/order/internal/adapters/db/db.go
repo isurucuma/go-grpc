@@ -2,7 +2,7 @@ package db
 
 import (
 	"fmt"
-	"githib.com/isurucuma/go-grpc/microservices/order/internal/application/core/domain"
+	"github.com/isurucuma/go-grpc/microservices/order/internal/application/core/domain"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )
